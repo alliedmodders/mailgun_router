@@ -1,0 +1,5 @@
+max_idle_seconds: 300
+api_key: key-aaaaaaa
+public_api_key: pubkey-aaaaaaa
+domain: mailgun.my.domain.net
+address: 127.0.0.1:2500

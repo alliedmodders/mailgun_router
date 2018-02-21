@@ -1,0 +1,15 @@
+[submodule "vendor/github.com/emersion/go-smtp"]
+	path = vendor/github.com/emersion/go-smtp
+	url = https://github.com/alliedmodders/go-smtp
+[submodule "vendor/github.com/emersion/go-sasl"]
+	path = vendor/github.com/emersion/go-sasl
+	url = https://github.com/emersion/go-sasl
+[submodule "vendor/github.com/go-yaml/yaml"]
+	path = vendor/github.com/go-yaml/yaml
+	url = https://github.com/go-yaml/yaml
+[submodule "vendor/github.com/mailgun/mailgun-go"]
+	path = vendor/github.com/mailgun/mailgun-go
+	url = https://github.com/mailgun/mailgun-go
+[submodule "vendor/github.com/pkg/errors"]
+	path = vendor/github.com/pkg/errors
+	url = https://github.com/pkg/errors
